@@ -6,12 +6,12 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 
  Features
 
-- 🧑‍💻 Intro section  
-- 📖 About section  
-- 🛠️ Skills display  
-- 📂 Projects showcase  
-- 📞 Contact section  
-- 📑 Navigation using iframe  
+-  Intro section  
+-  About section  
+-  Skills display  
+-  Projects showcase  
+-  Contact section  
+-  Navigation using iframe  
 
 
 Technologies Used
@@ -43,7 +43,7 @@ portfolio
 
  How It Works
 
-- The website uses an **iframe** to load different sections  
+- The website uses an iframe to load different sections  
 - Navigation links update the content inside the page  
 - No JavaScript is used — simple and fast  
 
@@ -57,7 +57,7 @@ A clean portfolio website with a navigation bar and dynamic content loading.
 
  Author
 
-**Rohit**  
+ROHIT
 CSE Student | Aspiring Developer  
 
 
@@ -70,7 +70,3 @@ CSE Student | Aspiring Developer
 - Deploy online (GitHub Pages)  
 
 ---
-
-## 📜 License
-
-This project is free to use for learning purposes.
